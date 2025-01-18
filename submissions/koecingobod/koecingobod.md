@@ -2,10 +2,10 @@
 
 ### Personal information
 
-- github account: 
-- Email: 
-- Arweave Address: 
-- ETH Address: 
+- github account: @manyuaja2209
+- Email: manhuofc@gmail.com
+- Arweave Address: xC36YJB_PP1aNeWS_H8fSvd5GtGbLs1yjEOoEeUxTD4
+- ETH Address: 0xde625d11875aB3d9f725377F459F957046Fd4791
 - Please finish this [form](https://docs.google.com/forms/d/e/1FAIpQLSfWA5fIIcBgmRppm3jNz5vmf9Mai_QMVil-2pO4r7YKn_Zhtw/viewform?usp=sf_link) to join in the talent pool.
 
 ### Introduce Yourself
